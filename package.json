@@ -19,11 +19,15 @@
   "homepage": "https://github.com/aosilvester/liri-bot#readme",
   "dependencies": {
     "bandsintown": "^1.0.1",
+    "chalk": "^2.4.1",
     "dotenv": "^6.1.0",
     "moment": "^2.22.2",
     "node-cmd": "^3.0.0",
     "node-spotify-api": "^1.0.7",
     "request": "^2.88.0",
-    "spotify": "^0.3.0"
+    "split": "^1.0.1",
+    "split-string": "^6.0.0",
+    "spotify": "^0.3.0",
+    "string": "^3.3.3"
   }
 }
