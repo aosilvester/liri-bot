@@ -40,7 +40,7 @@ The program is run through your command line terminal with the following:
 If there are any problems or issues with this app, please contact the author.
 
 ## Authors
-My Portfolio was developed by Alex Silvester in 2018
+Liri was developed by Alex Silvester in 2018
 
 You may contact Alex via email at (aosilvester@gmail.com) with any questions.
 
